@@ -40,6 +40,4 @@ The mammographic image of the breast is taken among cancer patients and normal p
 <dd>1995</dd>
 <dt>Birthplace</dt>
 <dd>Uttar Pradesh</dd>
-<dt>Color</dt>
-<dd>Green</dd>
 </dl>
