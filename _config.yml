@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Richa </p>
+logo: /assets/img/Richie.png
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/richa-bhardwaj-994118107/">LinkedIn</a> |
+  <a href="https://github.com/RichaSubodhKumar">GitHub</a>
+  
+  <br>   
+  I am working on Java, Spring Boot.
+  I have worked on several Machine Learning Projects.
+  Working in Optum Global Solution as a Software Engineer for one year.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
